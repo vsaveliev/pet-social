@@ -1,2 +1,3 @@
-# pet-social
-Pet project - Social network
+# Pet project - Social network
+
+TBD: installation, using, API endpoints, ...
